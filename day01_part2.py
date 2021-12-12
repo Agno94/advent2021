@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-from day01 import get_lines_from_input
+from day01_part1 import get_lines_from_input
 
 def main():
     lines       = get_lines_from_input('input01')
